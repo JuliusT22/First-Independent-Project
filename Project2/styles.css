@@ -1,0 +1,91 @@
+#header{
+    background-color: gray;
+    width:100%;
+    height:150px;
+}
+
+
+body{
+    margin:0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#links{
+    background-color:red;
+    width:100%;
+    height:50px;
+}
+
+
+
+
+
+#footer{
+    background-color:gray;
+    width:100%;
+    height:150px;
+    position:fixed;
+    left:0;
+    bottom:0;
+
+
+}
+
+
+.linkbar {
+    text-decoration: none;
+    background-color: red;
+    padding-left: 50px;
+    padding-right:50px;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:black;    
+}
+
+
+
+
+.linkbar:hover{
+    text-decoration: none;
+    padding-left: 50px;
+    padding-right:50px;
+    padding-top:22px;
+    padding-bottom:24px;
+    font-size: 20px;
+    color:red;
+    background-color: black;
+}
+
+
+#links{
+    padding-top:20px;
+
+
+}
+
+
+#content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+.ptag{ 
+    font-weight:800;
+    font-size:20px;
+}
+.profile{
+    padding-right:10px;
+}
+.aboutus{
+    font-size:20px;
+}
+
+.contacts{
+    font-size:20px; 
+    line-height:50px;
+}
